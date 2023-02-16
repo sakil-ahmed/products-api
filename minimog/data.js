@@ -1,5 +1,4 @@
 [
-  // 1
   {
     id: 1,
     mainImg:
@@ -15,7 +14,6 @@
     to: "rounded-sunglasses",
   },
 
-  // 2
   {
     id: 2,
     mainImg:
@@ -30,7 +28,7 @@
     saleRate: "",
     to: "straw-shopeer-bag",
   },
-  //   3
+
   {
     id: 3,
     mainImg:
@@ -45,7 +43,7 @@
     saleRate: "",
     to: "denim-jacket",
   },
-  //   4
+
   {
     id: 4,
     mainImg:
@@ -60,7 +58,7 @@
     saleRate: "",
     to: "cotton-flannel-shirt",
   },
-  //   5
+
   {
     id: 5,
     mainImg:
@@ -76,7 +74,6 @@
     to: "long-sleeves-melton-coat",
   },
 
-  //   6
   {
     id: 6,
     mainImg:
@@ -91,7 +88,7 @@
     saleRate: "",
     to: "oversized-jacket",
   },
-  //   7
+
   {
     id: 7,
     mainImg:
@@ -106,7 +103,7 @@
     saleRate: "",
     to: "cotton-bucket-hat",
   },
-  //   8
+
   {
     id: 8,
     mainImg:
@@ -121,7 +118,7 @@
     saleRate: "",
     to: "long-sleeve-maxi-dress",
   },
-  //   9
+
   {
     id: 9,
     mainImg:
@@ -136,7 +133,7 @@
     saleRate: "",
     to: "linen-blend-shirt",
   },
-  //   10
+
   {
     id: 10,
     mainImg:
@@ -151,7 +148,7 @@
     saleRate: "",
     to: "boxy-denim-jacket",
   },
-  //   11
+
   {
     id: 11,
     mainImg:
@@ -166,7 +163,7 @@
     saleRate: "",
     to: "linen-check-blazer",
   },
-  //   12
+
   {
     id: 12,
     mainImg:
@@ -181,7 +178,7 @@
     saleRate: "",
     to: "oversized-t-shirt",
   },
-  //   13
+
   {
     id: 13,
     mainImg:
@@ -196,7 +193,7 @@
     saleRate: "",
     to: "tinted-sunglasses",
   },
-  //   14
+
   {
     id: 14,
     mainImg:
@@ -211,7 +208,7 @@
     saleRate: "",
     to: "polarised-sunglasses",
   },
-  //   15
+
   {
     id: 15,
     mainImg:
@@ -226,7 +223,7 @@
     saleRate: "",
     to: "quilted-shopper",
   },
-  //   16
+
   {
     id: 16,
     mainImg:
@@ -241,7 +238,7 @@
     saleRate: "",
     to: "slim-high-ankle-jeans",
   },
-  //   17
+
   {
     id: 17,
     mainImg:
@@ -256,7 +253,7 @@
     saleRate: "",
     to: "light-denim-jacket",
   },
-  //   18
+
   {
     id: 18,
     mainImg:
@@ -271,7 +268,7 @@
     saleRate: "",
     to: "quilted-shoulder-bag",
   },
-  //   19
+
   {
     id: 19,
     mainImg:
@@ -286,7 +283,6 @@
     saleRate: "",
     to: "trainers-shoes",
   },
-  //   20
   {
     id: 20,
     mainImg:
@@ -301,7 +297,6 @@
     saleRate: "",
     to: "high-ankle-jeans",
   },
-  //   21
   {
     id: 21,
     mainImg:
@@ -316,7 +311,6 @@
     saleRate: "",
     to: "denim-jacket",
   },
-  //   22
   {
     id: 22,
     mainImg:
@@ -331,7 +325,7 @@
     saleRate: "",
     to: "platform-espadrilles-sandals",
   },
-  //   23
+
   {
     id: 23,
     mainImg:
@@ -346,7 +340,7 @@
     saleRate: "",
     to: "espadrilles-sandals",
   },
-  //   24
+
   {
     id: 24,
     mainImg:
@@ -361,7 +355,7 @@
     saleRate: "",
     to: "square-shoulder-bag",
   },
-  //   25
+
   {
     id: 25,
     mainImg:
@@ -376,15 +370,4 @@
     saleRate: "",
     to: "brown-leather-belt",
   },
-  //   {
-  //     mainImg: "images/Product_card_img/product_fashion_main_08.jpg",
-  //     hoverImg: "images/Product_card_img/product_fashion_hover_08.jpg",
-  //     subtitle: "FASHION",
-  //     title: "Quilted Shoulder Bag",
-  //     btntext: "Select options",
-  //     disPrice: "",
-  //     price: "$22.00",
-  //     saleRate: "",
-  //     to: "quilted-shoulder-bag",
-  //   },
 ];
