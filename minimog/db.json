@@ -9,7 +9,12 @@
     "disPrice": "",
     "price": "$8.00",
     "saleRate": "",
-    "to": "rounded-sunglasses"
+    "to": "rounded-sunglasses",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
   {
     "id": 2,
@@ -21,7 +26,12 @@
     "disPrice": "",
     "price": "$22.00",
     "saleRate": "",
-    "to": "straw-shopeer-bag"
+    "to": "straw-shopeer-bag",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
   {
     "id": 3,
@@ -33,7 +43,12 @@
     "disPrice": "",
     "price": "$39.00",
     "saleRate": "",
-    "to": "denim-jacket"
+    "to": "denim-jacket",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
   {
     "id": 4,
@@ -45,7 +60,12 @@
     "disPrice": "",
     "price": "$15.00",
     "saleRate": "",
-    "to": "cotton-flannel-shirt"
+    "to": "cotton-flannel-shirt",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
   {
     "id": 5,
@@ -57,7 +77,12 @@
     "disPrice": "$36.00",
     "price": "$15.00",
     "saleRate": "",
-    "to": "long-sleeves-melton-coat"
+    "to": "long-sleeves-melton-coat",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
 
   {
@@ -70,7 +95,12 @@
     "disPrice": "$45.00",
     "price": "$35.00",
     "saleRate": "",
-    "to": "oversized-jacket"
+    "to": "oversized-jacket",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
 
   {
@@ -83,7 +113,12 @@
     "disPrice": "$18.00",
     "price": "$20.00",
     "saleRate": "",
-    "to": "cotton-bucket-hat"
+    "to": "cotton-bucket-hat",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
 
   {
@@ -96,7 +131,12 @@
     "disPrice": "",
     "price": "$106.00",
     "saleRate": "",
-    "to": "long-sleeve-maxi-dress"
+    "to": "long-sleeve-maxi-dress",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
   {
     "id": 9,
@@ -108,7 +148,12 @@
     "disPrice": "",
     "price": "$17.00",
     "saleRate": "",
-    "to": "linen-blend-shirt"
+    "to": "linen-blend-shirt",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
 
   {
@@ -121,7 +166,12 @@
     "disPrice": "",
     "price": "$25.00",
     "saleRate": "",
-    "to": "boxy-denim-jacket"
+    "to": "boxy-denim-jacket",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
 
   {
@@ -134,7 +184,12 @@
     "disPrice": "",
     "price": "$25.00",
     "saleRate": "",
-    "to": "linen-check-blazer"
+    "to": "linen-check-blazer",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
 
   {
@@ -147,7 +202,12 @@
     "disPrice": "14.00",
     "price": "$11.00",
     "saleRate": "",
-    "to": "oversized-t-shirt"
+    "to": "oversized-t-shirt",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
 
   {
@@ -160,7 +220,12 @@
     "disPrice": "",
     "price": "$10.00",
     "saleRate": "",
-    "to": "tinted-sunglasses"
+    "to": "tinted-sunglasses",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
 
   {
@@ -173,7 +238,12 @@
     "disPrice": "$21.00",
     "price": "$18.00",
     "saleRate": "",
-    "to": "polarised-sunglasses"
+    "to": "polarised-sunglasses",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
 
   {
@@ -186,7 +256,12 @@
     "disPrice": "",
     "price": "$22.00",
     "saleRate": "",
-    "to": "quilted-shopper"
+    "to": "quilted-shopper",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
 
   {
@@ -199,7 +274,12 @@
     "disPrice": "",
     "price": "$20.00",
     "saleRate": "",
-    "to": "slim-high-ankle-jeans"
+    "to": "slim-high-ankle-jeans",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
 
   {
@@ -212,7 +292,12 @@
     "disPrice": "",
     "price": "$26.00",
     "saleRate": "",
-    "to": "light-denim-jacket"
+    "to": "light-denim-jacket",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
 
   {
@@ -225,7 +310,12 @@
     "disPrice": "",
     "price": "$22.00",
     "saleRate": "",
-    "to": "quilted-shoulder-bag"
+    "to": "quilted-shoulder-bag",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
 
   {
@@ -238,7 +328,12 @@
     "disPrice": "$17.00",
     "price": "$14.00",
     "saleRate": "",
-    "to": "trainers-shoes"
+    "to": "trainers-shoes",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
 
   {
@@ -251,7 +346,12 @@
     "disPrice": "",
     "price": "$302.00",
     "saleRate": "",
-    "to": "high-ankle-jeans"
+    "to": "high-ankle-jeans",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
 
   {
@@ -264,7 +364,12 @@
     "disPrice": "",
     "price": "$39.00",
     "saleRate": "",
-    "to": "denim-jacket"
+    "to": "denim-jacket",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
 
   {
@@ -277,7 +382,12 @@
     "disPrice": "",
     "price": "$19.00",
     "saleRate": "",
-    "to": "platform-espadrilles-sandals"
+    "to": "platform-espadrilles-sandals",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
 
   {
@@ -290,7 +400,12 @@
     "disPrice": "",
     "price": "$17.00",
     "saleRate": "",
-    "to": "espadrilles-sandals"
+    "to": "espadrilles-sandals",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
 
   {
@@ -303,7 +418,12 @@
     "disPrice": "",
     "price": "$53.00",
     "saleRate": "",
-    "to": "square-shoulder-bag"
+    "to": "square-shoulder-bag",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   },
 
   {
@@ -316,6 +436,11 @@
     "disPrice": "",
     "price": "$13.00",
     "saleRate": "",
-    "to": "brown-leather-belt"
+    "to": "brown-leather-belt",
+    "size": ["35", "36", "37", "38", "39"],
+    "color": [
+      { "title": "Brown", "value": "#836953" },
+      { "title": "White", "value": "#ffffff" }
+    ]
   }
 ]
