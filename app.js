@@ -14,5 +14,8 @@ app.get("/minimog/products", (req, res) => {
 app.get("/voxo/products", (req, res) => {
   res.sendFile(__dirname + "/voxo/db.json");
 });
+app.get("/portfolio", (req, res) => {
+  res.sendFile(__dirname + "/portfolio/db.json");
+});
 
 app.listen(3000);
